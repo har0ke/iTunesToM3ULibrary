@@ -1,0 +1,17 @@
+{
+  "IGNORE_FOLDERS": false,
+  "CLEANUP_MEDIA_COPY_STORAGE": true,
+
+  "ITUNES_LIBRARY": "/run/user/1000/gvfs/ftp:host=syn-storage.local/music/iTunes/iTunes Library.xml",
+  "ITUNES_MEDIA_PATH": "/run/user/1000/gvfs/ftp:host=syn-storage.local/music/iTunes/iTunes Media/",
+  "ITUNES_MEDIA_DB_PATH": "Y:/iTunes/iTunes Media/",
+
+  "RELATIVE_PATHS": true,
+  "STORAGE_M3U_MEDIA_PATH": null,
+  "STORAGE_PATH_SEPARATOR": null,
+  "STORAGE_COPY_MEDIA_PATH": null,
+  "STORAGE_COPY_PLAYLIST_PATH": null,
+
+  "INCLUDE": ["all"],
+  "EXCLUDE": ["get_Library", "get_Movies", "get_Downloaded", "get_Audiobooks", "get_TV Shows"]
+}

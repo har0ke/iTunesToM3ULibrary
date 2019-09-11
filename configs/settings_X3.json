@@ -1,0 +1,9 @@
+{
+  "extends": "settings_base.json",
+
+  "STORAGE_PATH_SEPARATOR": "\\",
+  "RELATIVE_PATHS": false,
+  "STORAGE_M3U_MEDIA_PATH": "TF1:\\media",
+  "STORAGE_COPY_MEDIA_PATH": "/run/media/oke/X3/media/",
+  "STORAGE_COPY_PLAYLIST_PATH": "/run/media/oke/X3/playlists/"
+}
